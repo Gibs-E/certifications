@@ -10,6 +10,12 @@ A collection of my verified certifications including internships and technical a
 - **Mastercard Cybersecurity Job Simulation** – [Forage](https://www.theforage.com)  
   *Issued: July 2025*  
   [View Certificate](./Mastercard_Cybersecurity_Internship_Certificate.pdf)
+
+### 🐧 Linux
+![Linux Competency Badge](linux-competency-badge.png)  
+*cat linux.txt – Earned: July 24, 2025*  
+Being competent in Linux
+
   
 ## 💻 Web Development
 
