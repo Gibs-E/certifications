@@ -12,8 +12,10 @@ A collection of my verified certifications including internships and technical a
   [View Certificate](./Mastercard_Cybersecurity_Internship_Certificate.pdf)
 
 ### 🐧 Linux
-![Linux Competency Badge](linux-competency-badge.png)  
-*cat linux.txt – Earned: July 24, 2025*  
+
+<img src="linux-competency-badge.png" alt="Linux Competency Badge" width="200"/>
+
+**cat linux.txt** – *Earned: July 24, 2025*  
 Being competent in Linux
 
   
