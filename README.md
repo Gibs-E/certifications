@@ -11,6 +11,15 @@ A collection of my verified certifications including internships and technical a
   *Issued: July 2025*  
   [View Certificate](./Mastercard_Cybersecurity_Internship_Certificate.pdf)
 
+  - **TATA Cybersecurity Analyst Job Simulation – Forage**  
+  *Earned: August 11, 2025*  
+  Practical tasks in:
+  - Identity and Access Management (IAM) fundamentals
+  - IAM strategy assessment
+  - Crafting custom IAM solutions
+  - Platform integration  
+  [View Certificate](tata-cybersecurity-certificate.pdf)
+
 ### 🐧 Linux
 - **cat linux.txt**  
   *Earned: July 24, 2025*  
