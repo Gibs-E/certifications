@@ -4,6 +4,10 @@ A collection of my verified certifications including internships and technical a
 
 ## 🔐 Cybersecurity
 
+- **CompTIA Cybersecurity Analyst (CySA+)** – CompTIA  
+  <br>*Issued: August 2025*  
+  [View Certificate](CompTIA_CySA+_Certificate.pdf)
+
 - [Deloitte Cybersecurity Virtual Internship (Forage)](./Deloitte_Cybersecurity_Internship_Certificate.pdf)
   <br>_Issued: June 2025_
 
