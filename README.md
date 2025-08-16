@@ -4,7 +4,8 @@ A collection of my verified certifications including internships and technical a
 
 ## 🔐 Cybersecurity
 
-- **CompTIA Cybersecurity Analyst (CySA+)** – CompTIA  
+- **CompTIA Cybersecurity Analyst (CySA+)** – CompTIA
+  ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-blue?logo=comptia&logoColor=white)
   <br>*Issued: August 2025*  
   [View Certificate](CompTIA_CySA+_Certificate.pdf)
 
